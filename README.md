@@ -6,8 +6,9 @@
 <a href="https://www.linkedin.com/in/daniel-lopez-carmona/"><img src="https://img.shields.io/badge/DanielCarmona-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>    
 <a href="https://www.instagram.com/danielcarmonaphantom/"><img src="https://img.shields.io/badge/@DanielCarmonaPhantom_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
+<h1 align="center">¡Hola a todos! 👋</h1>
 
- ## ¡Hola a todos! 👋
+
 
 Here are some ideas to get you started:
 
