@@ -2,13 +2,12 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
-<a href="[https://www.instagram.com/billpwchan/](https://www.instagram.com/danielcarmonaphantom/)">  <img src="https://img.shields.io/badge/@DanielCarmonaPhantom_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="[https://www.linkedin.com/in/daniel-lopez-carmona/](https://www.instagram.com/danielcarmonaphantom/)"><img src="https://img.shields.io/badge/@DanielCarmonaPhantom_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"</a>
+      
+  <a href="https://www.linkedin.com/in/daniel-lopez-carmona/"><img src="ttps://img.shields.io/badge/DanielCarmona-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="[https://www.linkedin.com/in/billpwchan1998/](https://www.linkedin.com/in/daniel-lopez-carmona/)"><img src="https://img.shields.io/badge/DanielCarmona-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-</div>
 </p>
 
 ### Hi there 👋
