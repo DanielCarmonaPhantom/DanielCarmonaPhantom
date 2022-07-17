@@ -27,3 +27,4 @@
 <a href='https://github.com/DanielCarmonaPhantom/Pasteleria-BEDU'><img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Proyecto2.svg'></a>
 </div>
 
+<img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Contributions.svg'>
