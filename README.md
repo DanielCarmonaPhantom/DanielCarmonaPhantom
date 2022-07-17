@@ -25,4 +25,7 @@
 
 * <a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'>E3 Bedu</a>
 
-* <a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'><img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/proyecto.svg'></a>
+<div >
+<a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'><img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Proyecto.svg'></a>
+<a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'><img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Proyecto.svg'></a>
+</div>
