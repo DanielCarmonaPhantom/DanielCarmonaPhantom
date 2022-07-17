@@ -27,3 +27,4 @@
 </div>
 
 <img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Contributions.svg'>
+<img src='https://pagespeed-insights.herokuapp.com/?url=https://devphantom.org/danielcarmona/about.html'>
