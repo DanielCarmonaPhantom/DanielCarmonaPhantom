@@ -20,6 +20,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Profile.svg'>
+
 ### Projects 
 <div >
 <a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'><img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Proyecto.svg'></a>
