@@ -1,6 +1,4 @@
 ![](https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Grabacio%CC%81n%20de%20pantalla%202022-03-23%20a%20la(s)%2017.57.46.gif)
-    
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DanielCarmonaPhantom&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 
 <p align="center">
