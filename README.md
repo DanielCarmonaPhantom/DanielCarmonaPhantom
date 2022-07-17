@@ -22,9 +22,6 @@
 - ⚡ Fun fact: ...
 
 ### Proyectos 
-
-* <a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'>E3 Bedu</a>
-
 <div >
 <a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'><img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Proyecto.svg'></a>
 <a href='https://github.com/DanielCarmonaPhantom/Pasteleria-BEDU'><img src='https://github.com/DanielCarmonaPhantom/ImgPerfil/blob/main/Proyecto2.svg'></a>
