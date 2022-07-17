@@ -21,3 +21,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Proyectos 
+
+* <a href='https://github.com/DanielCarmonaPhantom/E3-BEDU'>E3 Bedu</a>
